@@ -1,0 +1,6 @@
+S→TS'
+S'→+TS'| ε
+T→FT'
+T'→FT'| ε
+F→AF'|(S)
+F→T'S'*F'|a| ε
