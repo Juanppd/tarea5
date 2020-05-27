@@ -1,0 +1,4 @@
+G→PG'
+G'→G|ε
+P→id:R
+R→idR|ε
